@@ -2,84 +2,104 @@
     "todos": [
     {
         "id": 1,
-        "title": "html5"
+        "title": "html5",
+        "complete":true
     },
     {
         "id": 2,
-        "title": "css3"
+        "title": "css3",
+        "complete":true
     },
     {
         "id": 3,
-        "title": "js"
+        "title": "js",
+        "complete":true
     },
     {
         "id": 4,
-        "title": "vue"
+        "title": "vue",
+        "complete":true
     },
     {
         "id": 5,
-        "title": "nuxt"
+        "title": "nuxt",
+        "complete":true
     },
     {
         "id": 6,
-        "title": "vue route"
+        "title": "vue route",
+        "complete":true
     },
     {
         "id": 7,
-        "title": "vuex"
+        "title": "vuex",
+        "complete":true
     },
     {
         "id": 8,
-        "title": "bootstrap"
+        "title": "bootstrap",
+        "complete":true
     },
     {
         "id": 9,
-        "title": "webpack"
+        "title": "webpack",
+        "complete":true
     },
     {
         "id": 10,
-        "title": "es6"
+        "title": "es6",
+        "complete":true
     }],
     "news": [
     {
         "id": 1,
-        "title": "“携号转网”不用“跑断腿”，办完1小时生效"
+        "title": "“携号转网”不用“跑断腿”，办完1小时生效",
+        "type":1
     },
     {
         "id": 2,
-        "title": "英科学家实现玻璃与金属焊接 有望颠覆制造业"
+        "title": "英科学家实现玻璃与金属焊接 有望颠覆制造业",
+        "type":2
     },
     {
         "id": 3,
-        "title": "“新华书店”顾客只看不买，冬夏暖气照明供应，为啥却没破产？"
+        "title": "“新华书店”顾客只看不买，冬夏暖气照明供应，为啥却没破产？",
+        "type":3
     },
     {
         "id": 4,
-        "title": "欧联杯奇葩一幕！阿森纳前锋的一脚失误传球，却意外制造最佳进球"
+        "title": "欧联杯奇葩一幕！阿森纳前锋的一脚失误传球，却意外制造最佳进球",
+        "type":1
     },
     {
         "id": 5,
-        "title": "甜化了！浙大女生“三行情书”爆红，看得人咯咯咯不停傻笑"
+        "title": "甜化了！浙大女生“三行情书”爆红，看得人咯咯咯不停傻笑",
+        "type":3
     },
     {
         "id": 6,
-        "title": "年薪几十万的领导要求月薪只有一两千元的员工讲大局，并且要有奉献精神，这是什么心理？"
+        "title": "年薪几十万的领导要求月薪只有一两千元的员工讲大局，并且要有奉献精神，这是什么心理？",
+        "type":2
     },
     {
         "id": 7,
-        "title": "失去双臂、全身瘫痪、双目失明，真人版“阿丽塔们”美到让人心颤"
+        "title": "失去双臂、全身瘫痪、双目失明，真人版“阿丽塔们”美到让人心颤",
+        "type":1
     },
     {
         "id": 8,
-        "title": "啪啪打脸！女演员晒海边烧烤，三亚市委宣传部微博回应"
+        "title": "啪啪打脸！女演员晒海边烧烤，三亚市委宣传部微博回应",
+        "type":1
     },
     {
         "id": 9,
-        "title": "世界独一无二的建筑奇观，悬于万仞峭壁间，1500年不倒"
+        "title": "世界独一无二的建筑奇观，悬于万仞峭壁间，1500年不倒",
+        "type":1
     },
     {
         "id": 10,
-        "title": "男子勇救落海女子身亡，205天后家属起诉女子要赔偿！法官最后这样判"
+        "title": "男子勇救落海女子身亡，205天后家属起诉女子要赔偿！法官最后这样判",
+        "type":1
     }],
     "profile":
     {
